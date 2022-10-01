@@ -10,6 +10,10 @@ As pinturas são em aquarela, exceto Noite estrelada que é com tinta acrílico.
 <img src="https://user-images.githubusercontent.com/57491372/193429119-82dbe109-d8ef-43f1-af5e-950c0a0706b4.jpg" width="45%"></img>
 <img src="https://user-images.githubusercontent.com/57491372/193429114-7a8fad3d-9e27-4e86-b404-b9ae110d282b.jpg" width="45%"></img>
 
-# Estas foram trabalhos já feitos como designer gráfico.
+# Trabalhos de designer gráfico para a açaíteria que fiz para meu tio.
+<img src="https://user-images.githubusercontent.com/57491372/193430442-0adc683b-0a8d-4969-bcb9-c7c425491b29.jpg" width="45%"></img> 
+<img src="https://user-images.githubusercontent.com/57491372/193430447-01e461ad-4aba-4891-9c62-53f6662c0a0d.jpg" width="45%"></img> 
+<img src="https://user-images.githubusercontent.com/57491372/193430449-15f16657-7102-4dcf-8b8e-543734be126f.jpg" width="45%"></img> 
+<img src="https://user-images.githubusercontent.com/57491372/193430451-a93b8dc2-0df0-4cf2-b1ad-c23e7cb48aba.jpg" width="45%"></img> 
 <br>
 Thanks for watching.
